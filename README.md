@@ -29,3 +29,4 @@ I tend to create many projects. Some of them are just experiments; others turn o
 * [CosmosDB Studio](https://github.com/thomaslevesque/CosmosDBStudio): a tool to browse and query Azure CosmosDB databases (in progress)
 * [WpfAnimatedGif](https://github.com/XamlAnimatedGif/WpfAnimatedGif): a library to display animated GIFs in WPF
 * [XamlAnimatedGif](https://github.com/XamlAnimatedGif/XamlAnimatedGif): a library to display animated GIFs in XAML (UWP, WPF, Windows Phone, and even Silverlight!)
+* I also contribute frequently to various projects in .NET land: .NET Core, ASP.NET Core, Identity Server...
