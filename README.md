@@ -16,3 +16,16 @@
 I tend to create many projects. Some of them are just experiments; others turn out to be useful to someone, and I do my best to maintain them. Here's a selection of the projects I felt were worth mentioning:
 
 * [FakeItEasy](https://fakeiteasy.github.io/): one of the most popular mocking libraries for .NET. Its simple concepts and fluent syntax makes it very easy to use. I joined the core team in 2016.
+* [DontMergeMeYet](https://github.com/thomaslevesque/DontMergeMeYet): a GitHub application that prevents you from accidentally merging a pull request before it's ready.
+* [Extensions.Hosting.AsyncInitialization](https://github.com/thomaslevesque/Extensions.Hosting.AsyncInitialization): a library to help with async app initialization in .NET Core generic host (.NET Core 2.1+ and ASP.NET Core 3).
+* [Hamlet](https://github.com/thomaslevesque/Hamlet): a simple Option type for .NET with Linq support.
+* [WeakEvent](https://github.com/thomaslevesque/WeakEvent): a generic weak event implementation.
+* [Linq.Extras](https://github.com/thomaslevesque/Linq.Extras): a collection of extension methods to complement the ones from System.Linq.Enumerable.
+* [NString](https://github.com/thomaslevesque/NString): a collection of utilities for working with strings in .NET.
+* [NHotkey](https://github.com/thomaslevesque/NHotkey): a managed library to handle global hotkeys in Windows Forms and WPF applications.
+* [EssentialMVVM](https://github.com/thomaslevesque/EssentialMVVM): a minimalist MVVM Framework.
+* [HumanBytes](https://github.com/thomaslevesque/HumanBytes): a library to convert byte sizes to a human readable form.
+* [Iso8601DurationHelper](https://github.com/thomaslevesque/Iso8601DurationHelper): A small library to handle ISO8601 durations in C#.
+* [CosmosDB Studio](https://github.com/thomaslevesque/CosmosDBStudio): a tool to browse and query Azure CosmosDB databases (in progress)
+* [WpfAnimatedGif](https://github.com/XamlAnimatedGif/WpfAnimatedGif): a library to display animated GIFs in WPF
+* [XamlAnimatedGif](https://github.com/XamlAnimatedGif/XamlAnimatedGif): a library to display animated GIFs in XAML (UWP, WPF, Windows Phone, and even Silverlight!)
