@@ -1,8 +1,8 @@
 ## Hi, I'm Thomas Levesque
 
-* .NET developer from Paris, France
+* .NET developer from France, currently living in Québec City, Canada
 * Working mostly with C#, ASP.NET Core and Azure
-* Currently working at [Infinite Square](https://www.infinitesquare.com/)
+* Currently working at [UEAT](https://ueat.io)
 * [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/4039815?fullName=Thomas%20Levesque) since 2012 ("Developer Technologies" category)
 * Maintainer of [FakeItEasy](https://fakeiteasy.github.io/), the easy mocking library for .NET
 
