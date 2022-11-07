@@ -15,7 +15,7 @@
 
 I tend to create many projects. Some of them are just experiments; others turn out to be useful to someone, and I do my best to maintain them. Here's a selection of the projects I felt were worth mentioning:
 
-* [FakeItEasy](https://fakeiteasy.github.io/): one of the most popular mocking libraries for .NET. Its simple concepts and fluent syntax makes it very easy to use. I joined the core team in 2016.
+* [FakeItEasy](https://fakeiteasy.github.io/): one of the most popular mocking libraries for .NET. Its simple concepts and fluent syntax make it very easy to use. I joined the core team in 2016.
 * [DontMergeMeYet](https://github.com/thomaslevesque/DontMergeMeYet): a GitHub application that prevents you from accidentally merging a pull request before it's ready.
 * [Extensions.Hosting.AsyncInitialization](https://github.com/thomaslevesque/Extensions.Hosting.AsyncInitialization): a library to help with async app initialization in .NET Core generic host (.NET Core 2.1+ and ASP.NET Core 3).
 * [Hamlet](https://github.com/thomaslevesque/Hamlet): a simple Option type for .NET with Linq support.
