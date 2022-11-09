@@ -10,6 +10,7 @@
 
 - [My blog](https://thomaslevesque.com/)
 - [Twitter](https://twitter.com/thomaslevesque)
+- <a rel="me" href="https://mastodon.cloud/@thomaslevesque">Mastodon</a>
 
 ## Open-source portfolio
 
