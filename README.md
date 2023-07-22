@@ -3,7 +3,7 @@
 * .NET developer from France, currently living in Québec City, Canada
 * Working mostly with C#, ASP.NET Core and Azure
 * Currently working at [UEAT](https://ueat.io)
-* Former [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/4039815?fullName=Thomas%20Levesque) from 2012 to 2023 ("Developer Technologies" category)
+* Former [Microsoft MVP](https://www.credly.com/badges/a7fb8699-d53e-4555-bb52-44a7e9fee901/public_url) from 2012 to 2023 ("Developer Technologies" category)
 * Maintainer of [FakeItEasy](https://fakeiteasy.github.io/), the easy mocking library for .NET
 
 ## Follow me
