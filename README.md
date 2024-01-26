@@ -1,7 +1,7 @@
 ## Hi, I'm Thomas Levesque
 
 * .NET developer from France, currently living in Québec City, Canada
-* Working mostly with C#, ASP.NET Core and Azure
+* Working mostly with C#, ASP.NET Core, Azure and Google Cloud Platform
 * Currently working at [UEAT](https://ueat.io)
 * Former [Microsoft MVP](https://www.credly.com/badges/a7fb8699-d53e-4555-bb52-44a7e9fee901/public_url) from 2012 to 2023 ("Developer Technologies" category)
 * Maintainer of [FakeItEasy](https://fakeiteasy.github.io/), the easy mocking library for .NET
